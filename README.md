@@ -52,6 +52,9 @@ whhat should i install here
 * [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logi
 
 ## Authors 
-* **Lim Rui Jie** - *Bet365* 
+* **Rui Jie** - *Bet365* 
+* **Ismail** - *Bet365*
+* **Yu Da** - *Bet365*
+* **Zhi Hao** - *Bet365*
 
 
