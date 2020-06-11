@@ -9,15 +9,15 @@ This repository contains the files neccessary for the description of the project
 
 3.[Architecture of project](#Architecture-of-project)
 
-4.[Long Description](#Long-Description)
+4.[Detailed Description](#Detailed-description)
 
 5.[Project roadmap](#Project-roadmap)
 
 6.[Getting started](#Getting-started)
 
-7.[Tests results](#Tests-results)
+7.[Test Results](Tests-results)
 
-8.[Live Demo](#Livve-Demo)
+8.[Live Demo](#Live-Demo)
 
 9.[Built With](#Built-with)
 
@@ -29,5 +29,29 @@ This repository contains the files neccessary for the description of the project
 ### Problem statement
 ### How does our project help?
 
+## Pitch video
+
+## Architecture of project
+
+## Detailed description
+
+## Project roadmap
+
+## Getting started
+### Software to install
+```bash
+whhat should i install here
+```
+
+## Test results
+
+## Live Demo 
+
+## Built with
+* BM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
+* [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logi
+
+## Authors 
+* **Lim Rui Jie** - *Bet365* 
 
 
