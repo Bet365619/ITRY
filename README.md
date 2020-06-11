@@ -27,5 +27,7 @@ This repository contains the files neccessary for the description of the project
 
 ## Short Description
 ### Problem statement
-### how does our project help?
+### How does our project help?
+
+
 
