@@ -38,6 +38,15 @@ This repository contains the files neccessary for the description of the project
 ## Project roadmap
 
 ## Getting started
+### Step by step guide to build the chatbot
+Step 1
+Step 2
+Step 3
+Step 4
+Step 5
+Step 6
+Step 7
+
 ### Software to install
 ```bash
 whhat should i install here
