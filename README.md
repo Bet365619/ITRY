@@ -1,7 +1,7 @@
-## ITRY SCDF IBM Challenge 2020
+# ITRY SCDF IBM Challenge 2020
 This repository contains the files neccessary for the description of the project as well as installation guides.
 
-##Contents
+## Contents
 
 1.[Short Description](#Short-Description)
 
