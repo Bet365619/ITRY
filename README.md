@@ -26,8 +26,8 @@ This repository contains the files neccessary for the description of the project
 11.[Acknowledgements](#Acknowledgements)
 
 ## Short Description
-### Problem statement
-### How does our project help?
+### 1.1 Problem statement
+### 1.2 How does our project help?
 
 ## Pitch video
 
