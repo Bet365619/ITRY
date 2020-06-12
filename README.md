@@ -36,7 +36,7 @@ This repository contains the files neccessary for the description of the project
 ## Detailed description
 
 ## Project roadmap
-![Roadmap](https://github.com/Bet365619/draft1/blob/master/covid-website-diagram.png)
+![Roadmap]()
 
 ## Getting started
 ### Step by step guide to build the chatbot
