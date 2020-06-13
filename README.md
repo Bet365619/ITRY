@@ -108,9 +108,37 @@ The following graph is obtained from the IOT platform where the data is recorded
 ![Visualization of Sensor Data](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT/Data-visualization-of-accelerator.png)
 
 ### Step 7 Using of saved data to be analysed using R in Jupyter Notebook
+Other than acceleration data of the user, temperature data of the user's residence is also an important metric that can potentially be signs of an emergency
+
+Data stored in the database can be extracted and be analysed. 
+1. Import the code in _ to R studios. 
+``bash
+#If required
+# install.packages("ggplot2")
+# install.packages("jsonlite", repos="http://cran.r-project.org")
+# install.packages("readr")
+library(readr)
+library(ggplot2)
+library(sqldf)
+library(httr)
+library(RCurl)
+library(bitops)
+library(jsonlite)
+library(stringr)
+
+```
+
+2. Read the json file _ to obtain the configuration for the various parameters (Time and Date etc). This will be useful to harmonise similar data with different format in order to make analysis and evaluation possible later in this step.
 
 ![json1](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Parameter%20Config/Json-file1.png)
 ![json2](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Parameter%20Config/Json-file2.png)
+
+3. Read the csv file _ to obtain the sample time series data used for the analysis.
+
+4. From the time series data, subset 2 time series data of 2 different days with some time periods. (E.g. Day1 12am to 12pm, Day2 12am to 12pm. 
+5. Construct plots (Boxplots and trendlin…
+
+
 
 
 ### Step 8
