@@ -17,13 +17,11 @@ This repository contains the files neccessary for the description of the project
 
 7.[Test Results](Tests-results)
 
-8.[Live Demo](#Live-Demo)
+8.[Built With](#Built-with)
 
-9.[Built With](#Built-with)
+9.[Authors](#Authors)
 
-10.[Authors](#Authors)
-
-11.[Acknowledgements](#Acknowledgements)
+10.[Acknowledgements](#Acknowledgements)
 
 ## Short Description
 ### 1.1 What's the problem ? 
@@ -130,8 +128,6 @@ The following graph is obtained from the IOT platform where the data is recorded
 * IBM IOT
 
 ## Test results
-
-## Live Demo 
 
 ## Built with
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
