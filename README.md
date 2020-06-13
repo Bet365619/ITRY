@@ -61,10 +61,11 @@ Step 6
 
 Step 7
 
-### Software to install
-```bash
-whhat should i install here
-```
+### Software to required
+Jupyter Notebook
+RStudio
+IBM Watson Studio
+IBM Node-Red
 
 ## Test results
 
