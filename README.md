@@ -55,7 +55,9 @@ Work through the steps in this tutorial to create a [Node-RED and Watson IoT Pla
 
 As a result, you will have a Node-RED Starter Kit application connected to the IBM IoT platform.As a result, you will have a Node-RED Starter Kit application connected to the IBM IoT platform.
 
-Step 2
+### Step 2 Add a device that will send MQTT messages to the IBM Watson IoT Platform
+After completing the setup in step 1, the  IBM Watson IoT Platform console is opened.
+
 
 Step 3
 
