@@ -70,7 +70,7 @@ Jupyter Notebook
 RStudio
 
 IBM Watson Studio
-A
+
 IBM Node-Red
 
 ## Test results
