@@ -32,11 +32,11 @@ This repository contains the files neccessary for the description of the project
 ## Pitch video
 
 ## Architecture of project
+![Architecture of project](https://github.com/Bet365619/ITRY/blob/master/Timeline/Architecture-of-Project.jpg)
+
 
 ## Detailed description
 
-## Project roadmap
-![Roadmap](https://github.com/Bet365619/ITRY/blob/master/Timeline/Architecture-of-Project.jpg)
 
 ## Getting started
 ### Step by step guide to build the chatbot
