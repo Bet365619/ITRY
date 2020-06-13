@@ -111,7 +111,7 @@ The following graph is obtained from the IOT platform where the data is recorded
 Other than acceleration data of the user, temperature data of the user's residence is also an important metric that can potentially be signs of an emergency
 
 Data stored in the database can be extracted and be analysed. 
-1. Import the code in _ to R studios. The following are library to be used and packages to be installed when using R Studio
+The following are library to be used and packages to be installed when using R Studio
 ```bash
 #If required
 # install.packages("ggplot2")
@@ -127,10 +127,11 @@ library(jsonlite)
 library(stringr)
 ```
 
+1. Import the code in _ to R studios. 
+
 2. Read the json file _ to obtain the configuration for the various parameters (Time and Date etc). This will be useful to harmonise similar data with different format in order to make analysis and evaluation possible later in this step.
 
-![json1](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Parameter%20Config/Json-file1.png)
-![json2](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Parameter%20Config/Json-file2.png)
+![json-1](https://github.com/Bet365619/ITRY/blob/master/Code/Config%20data.png)
 
 3. Read the csv file _ to obtain the sample time series data used for the analysis.
 
