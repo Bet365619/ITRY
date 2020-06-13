@@ -136,9 +136,17 @@ library(stringr)
 3. Read the csv file _ to obtain the sample time series data used for the analysis.
 ![Import](https://github.com/Bet365619/ITRY/blob/master/Code/Import.png)
 
-4. From the time series data, subset 2 time series data of 2 different days with some time periods. (E.g. Day1 12am to 12pm, Day2 12am to 12pm. 
-![Compare]()
-5. Construct plots (Boxplots and trendlin…
+4. From the time series data, subset 2 time series data of 2 different days with some time periods. (E.g. Day1 12am to 12pm, Day2 12am to 12pm. The photo below shows the splitting into two subset of time series data
+![Compare](https://github.com/Bet365619/ITRY/blob/master/Code/Split.png)
+5. Construct plots (Boxplots and trendline)
+![Plots](https://github.com/Bet365619/ITRY/blob/master/Code/Plotting.png)
+
+6. Statistical matrix.
+![statistic](https://github.com/Bet365619/ITRY/blob/master/Code/statistic.png)
+
+7. Comparing differences.
+![Comparing](https://github.com/Bet365619/ITRY/blob/master/Code/comparing-differences.png)
+
 
 
 
