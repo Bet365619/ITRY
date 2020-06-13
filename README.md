@@ -57,19 +57,19 @@ As a result, you will have a Node-RED Starter Kit application connected to the I
 
 ### Step 2 Add a device that will send MQTT messages to the IBM Watson IoT Platform
 1. After completing the setup in step 1, the  IBM Watson IoT Platform console is opened.
-![IOT Platform](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT-Platform.jpg)
+![IOT Platform](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT/IOT-Platform.jpg)
 An organisation id is being assigned to your app, as shown in the picture labelled as 1.
-![IOT-Label1](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT-1.png)
+![IOT-Label1](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT/IOT-1.png)
 
 In this case, the organisation id is pu3272 which is located at the top right corner of the dashboard. 
 
 2. Click Add Device Type. In your organization, you can have multiple device types each with multiple devices. A device type is a group of devices that share characteristics; for example, they might provide the same sensor data. In our case, the device type name must be “Android” (this device type name is required by the app that you will use later).
 
 3. Click Next. A page is displayed where you can enter metadata about the device type, such as a serial number or model. You don’t need to specify this information for this tutorial. Just click Finish.
-![IOT-label2](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT-2.png)
+![IOT-label2](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT/IOT-2.png)
 
 4. Click Register Devices. Enter the device ID. The device ID can be, for example, the MAC address of your smartphone. However, it must be unique within your organization only. For example in this instance, the device ID is "andriodchris".
-![IOT-label3](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT-3.png)
+![IOT-label3](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT/IOT-3.png)
 5. Click Next. A page is displayed where you could enter metadata about the device. Leave it blank, and click Next.
 
 6. On the security page, enter a value for the authentication token. Remember this value for later. Then, click Next.
