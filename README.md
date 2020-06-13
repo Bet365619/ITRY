@@ -59,7 +59,7 @@ As a result, you will have a Node-RED Starter Kit application connected to the I
 After completing the setup in step 1, the  IBM Watson IoT Platform console is opened.
 ![IOT Platform](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT-Platform.jpg)
 An organisation id is being assigned to your app, as shown in the picture labelled as 1.
-![IOT-Label1]
+![IOT-Label1](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT-1.png)
 In this case, the organisation id is 
 pu3272 which is located at the top right corner of the dashboard. 
 
