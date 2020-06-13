@@ -11,7 +11,7 @@ This repository contains the files neccessary for the description of the project
 
 4.[Detailed Description](#Detailed-description)
 
-5.[Project roadmap](#Project-roadmap)
+5.[Prerequisites](#Prerequisites)
 
 6.[Getting started](#Getting-started)
 
@@ -43,9 +43,10 @@ Our team has decided to make use of Internet of Things (IOT) devices to collect 
 
 ## Detailed description
 
+## Prerequisites
 
 ## Getting started
-### Step by step guide to build the chatbot
+### Step by step guide to build the analytical device
 Step 1
 
 Step 2
