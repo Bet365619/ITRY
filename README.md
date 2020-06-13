@@ -78,9 +78,16 @@ In this case, the organisation id is pu3272 which is located at the top right co
 
 ### Step 3 Downloading and installing App on mobile device
 
-You will use the IoT Starter for Android app to read and send sensor data on your smartphone. The source code and documentation of the app are in the [iot-starter-for-android GitHub project](https://github.com/ibm-watson-iot/iot-starter-for-android). The [Apk installation file](https://github.com/deveops/iot-starter-for-android/releases) for andriod can be found here.
+You will use the IoT Starter for Android app to read and send sensor data on your smartphone. The source code and documentation of the app are in the [iot-starter-for-android GitHub project](https://github.com/ibm-watson-iot/iot-starter-for-android). The [Apk installation file](https://github.com/deveops/iot-starter-for-android/releases) for andriod devices can be found here.
 
-Step 4
+### Step 4 Configuring the mobile device
+1. Start the IoT Starter app.
+2. Click Skip tutorial.
+3. Enter the following parameters:
+Organization: The organization ID that was displayed on the IBM IoT server (at the start of ” “). For example, pu3272 in this tutorial.
+Device ID: The device ID that you configured above. For example, “andriodchris” in this tutorial.
+Auth Token: The authorization token that you specified earlier.
+![Login]
 
 Step 5
 
