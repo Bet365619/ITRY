@@ -26,7 +26,9 @@ This repository contains the files neccessary for the description of the project
 11.[Acknowledgements](#Acknowledgements)
 
 ## Short Description
-### 1.1 Problem statement
+### 1.1 What's the problem ? 
+With the increasingly aging population and a growing segment of vulnerable populations in mind (e.g. increasing trend of elderly with no next of kin), better sense-making must be alerted at the onset of incidents which require emergency response (e.g. cardiac arrests, falls, unattended cooking fires etc.) and mobilise CFRs for effective
+early intervention.
 ### 1.2 How does our project help?
 
 ## Pitch video
