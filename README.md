@@ -58,7 +58,10 @@ As a result, you will have a Node-RED Starter Kit application connected to the I
 ### Step 2 Add a device that will send MQTT messages to the IBM Watson IoT Platform
 After completing the setup in step 1, the  IBM Watson IoT Platform console is opened.
 ![IOT Platform](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT-Platform.jpg)
-
+An organisation id is being assigned to your app, as shown in the picture labelled as 1.
+![IOT-Label1]
+In this case, the organisation id is 
+pu3272 which is located at the top right corner of the dashboard. 
 
 Step 3
 
