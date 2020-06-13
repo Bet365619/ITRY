@@ -66,8 +66,11 @@ Step 7
 
 ### Software to required
 Jupyter Notebook
+
 RStudio
+
 IBM Watson Studio
+
 IBM Node-Red
 
 ## Test results
