@@ -116,6 +116,8 @@ The following graph is obtained from the IOT platform where the data is recorded
 
 ### Step 8
 
+
+
 ### Software to required
 * Jupyter Notebook
 
