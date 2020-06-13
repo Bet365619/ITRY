@@ -77,7 +77,7 @@ IBM Node-Red
 ## Built with
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 * [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logi
-
+* [IBM IOT platform](https://cloud.ibm.com/catalog/services/internet-of-things-platform) -  The hub for IBM Watson IoT and lets you communicate with and consume data from connected devices and gateways
 ## Authors 
 * **Rui Jie** - *Bet365* 
 * **Ismail** - *Bet365*
