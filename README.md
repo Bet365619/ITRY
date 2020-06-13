@@ -50,7 +50,10 @@ Our team has decided to make use of Internet of Things (IOT) devices to collect 
 
 ## Getting started
 ### Step by step guide to build the analytical device
-Step 1
+#### Step 1 Creating an IOT app in IBM cloud
+Work through the steps in this tutorial to create a [Node-RED and Watson IoT Platform starter app in IBM Cloud](https://developer.ibm.com/tutorials/how-to-create-an-internet-of-things-platform-starter-application/).
+
+As a result, you will have a Node-RED Starter Kit application connected to the IBM IoT platform.As a result, you will have a Node-RED Starter Kit application connected to the IBM IoT platform.
 
 Step 2
 
