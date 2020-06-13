@@ -8,7 +8,7 @@ With the advancement of technology and transformation of data, effective early i
 
 Our team has decided to make use of Internet of Things (IOT) devices to collect data, transmit data to the cloud and make use of IBM Watson Studio to analyse and visualise the data to SCDF in order to improve their sense-making to be alerted at the onset of incidents which require emergency response and mobilise the CFRs for effective early intervention for the elderly population.
 
-### Retrieveing data from IOT Device
+### Retrieving data from IOT Device
 ### Converting and Refining data retrieved
 ### Analysing data collected using R studio 
 ## Test results
