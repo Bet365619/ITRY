@@ -83,7 +83,7 @@ You will use the IoT Starter for Android app to read and send sensor data on you
 ### Step 4 Allow permission of IOT starter on mobile device
 1. Go to Settings on mobile phone.
 
-2. Go to Application Management. ![Setting-1](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Settings-1.jpeg)
+2. Go to Application Management. ![Setting-1](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Settings-1.png)
 
 3. Search for application called IOT Starter. ![Setting-2](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Settings-2.jpeg)
 
