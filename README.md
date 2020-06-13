@@ -102,7 +102,7 @@ Device ID: The device ID that you configured above. For example, “andriodchris
 Auth Token: The authorization token that you specified earlier.
 Make sure that USE SSL is checked.
 ![Login](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Login.png)
-Upon clicking on Activate Sensor, the app collects data from the acceleration sensor in your smartphone and sends the data to the IBM IoT server. The app displays the accelerometer data and the number of messages that were published or received.
+Upon clicking on Activate Sensor, the app collects data from the acceleration sensor in your smartphone and sends the data to the IBM IoT server. The app displays the accelerometer data and the number of messages that were published or received.Such datas are being sent back into the IBM IOT server to be compiled into a json file for further analysis.
 ![Sensor-data](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Sensor-Data.png)
 
 
