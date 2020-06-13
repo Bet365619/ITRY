@@ -9,8 +9,14 @@ With the advancement of technology and transformation of data, effective early i
 Our team has decided to make use of Internet of Things (IOT) devices to collect data, transmit data to the cloud and make use of IBM Watson Studio to analyse and visualise the data to SCDF in order to improve their sense-making to be alerted at the onset of incidents which require emergency response and mobilise the CFRs for effective early intervention for the elderly population.
 
 ### Retrieving data from IOT Device
-### Converting and Refining data retrieved
+
+We were able to make use of node red and an andriod device in this case to establish a link to generate a sensor that is capable of measuring acceleration. This acceleration sensor can help us keep track of the movement of elderly in real time. In cases where there are sharp increase in acceleration. This could prompt a warning of possible fall cases of the elderly. 
+
 ### Analysing data collected using R studio 
+
+This data will be matched with prior data that are obtained and comparison will be made between the datas to see if there are any abnormalities in activvity of the elderly. This comparison will be done using an algorithm in R studio and data visualization tactics will be used to determine if there is any indication of abnormal activities. In the event that the system triggers the alarm of abnormal activites, the Civilian first responders will then be activated on site to check out the situation. 
 ## Test results
+
 ## Conclusion
+
 ## Acknowledgements
