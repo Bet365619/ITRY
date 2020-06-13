@@ -109,7 +109,8 @@ The following graph is obtained from the IOT platform where the data is recorded
 
 ### Step 7 Using of saved data to be analysed using R in Jupyter Notebook
 
-
+![json1](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Parameter%20Config/Json-file1.png)
+![json2](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Parameter%20Config/Json-file2.png)
 
 
 ### Step 8
