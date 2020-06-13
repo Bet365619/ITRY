@@ -56,7 +56,7 @@ Work through the steps in this tutorial to create a [Node-RED and Watson IoT Pla
 As a result, you will have a Node-RED Starter Kit application connected to the IBM IoT platform.As a result, you will have a Node-RED Starter Kit application connected to the IBM IoT platform.
 
 ### Step 2 Add a device that will send MQTT messages to the IBM Watson IoT Platform
-1.After completing the setup in step 1, the  IBM Watson IoT Platform console is opened.
+1. After completing the setup in step 1, the  IBM Watson IoT Platform console is opened.
 ![IOT Platform](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT-Platform.jpg)
 An organisation id is being assigned to your app, as shown in the picture labelled as 1.
 ![IOT-Label1](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT-1.png)
@@ -68,13 +68,17 @@ In this case, the organisation id is pu3272 which is located at the top right co
 3. Click Next. A page is displayed where you can enter metadata about the device type, such as a serial number or model. You don’t need to specify this information for this tutorial. Just click Finish.
 ![IOT-label2](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT-2.png)
 
-4.Click Register Devices. Enter the device ID. The device ID can be, for example, the MAC address of your smartphone. However, it must be unique within your organization only. For example in this instance, the device ID is "andriodchris"
+4. Click Register Devices. Enter the device ID. The device ID can be, for example, the MAC address of your smartphone. However, it must be unique within your organization only. For example in this instance, the device ID is "andriodchris".
 ![IOT-label3](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT-3.png)
-5.Click Next. A page is displayed where you could enter metadata about the device. Leave it blank, and click Next.
+5. Click Next. A page is displayed where you could enter metadata about the device. Leave it blank, and click Next.
 
-6.On the security page, enter a value for the authentication token. Remember this value for later. Then, click Next.
+6. On the security page, enter a value for the authentication token. Remember this value for later. Then, click Next.
 
-Step 3
+7. Messages are now ready to be sent from registered device to IOT platform.
+
+### Step 3 Downloading and installing App on mobile device
+
+You will use the IoT Starter for Android app to read and send sensor data on your smartphone. The source code and documentation of the app are in the [iot-starter-for-android GitHub project](https://github.com/ibm-watson-iot/iot-starter-for-android). The [Apk installation file](https://github.com/deveops/iot-starter-for-android/releases) for andriod can be found here.
 
 Step 4
 
