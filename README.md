@@ -38,7 +38,7 @@ Our team has decided to make use of Internet of Things (IOT) devices to collect 
 ## Pitch video
 
 ## Architecture of project
-![Architecture of project](https://github.com/Bet365619/ITRY/blob/master/Timeline/Architecture-of-Project.jpg)
+![Architecture of project](https://github.com/Bet365619/ITRY/blob/master/Timeline/Architecture-of-Project.png)
 
 
 ## Detailed description
