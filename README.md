@@ -1,5 +1,5 @@
 # ITRY SCDF IBM Challenge 2020
-This repository contains the files neccessary for the description and submission of the project as well as a step-by-step installation guides.
+This repository contains the files neccessary for the description of the project as well as installation guides.
 
 ## Contents
 
@@ -17,11 +17,13 @@ This repository contains the files neccessary for the description and submission
 
 7.[Test Results](Tests-results)
 
-8.[Built With](#Built-with)
+8.[Live Demo](#Live-Demo)
 
-9.[Authors](#Authors)
+9.[Built With](#Built-with)
 
-10.[Acknowledgements](#Acknowledgements)
+10.[Authors](#Authors)
+
+11.[Acknowledgements](#Acknowledgements)
 
 ## Short Description
 ### 1.1 What's the problem ? 
@@ -109,9 +111,15 @@ The following graph is obtained from the IOT platform where the data is recorded
 
 ### Step 7 Using of saved data to be analysed using R in Jupyter Notebook
 
-![json1](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Parameter%20Config/Json-file1.png)
-![json2](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Parameter%20Config/Json-file2.png)
+Other than acceleration data of the user, temperature data of the user's residence is also an important metric that can potentially be signs of an emergency
 
+Data stored in the database can be extracted and be analysed. 
+1. Import the code in ___ to R studios. 
+2. Read the json file ___ to obtain the configuration for the various parameters (Time and Date etc). This will be useful to harmonise similar data with different format in order to make analysis and evaluation possible later in this step.
+3. Read the csv file ___ to obtain the sample time series data used for the analysis.
+4. From the time series data, subset 2 time series data of 2 different days with some time periods. (E.g. Day1 12am to 12pm, Day2 12am to 12pm. 
+5. Construct plots (Boxplots and trendlines) to obtain visual insights about changes in behaviour from one time period to another (day1 to day 2 in our context)
+6. Statistical metrics can be calculated to determine if a change in behaviour indeed did occur. Drastic changes in behaviour might indicate a case of an emergency.
 
 ### Step 8
 
@@ -129,6 +137,8 @@ The following graph is obtained from the IOT platform where the data is recorded
 * IBM IOT
 
 ## Test results
+
+## Live Demo 
 
 ## Built with
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
