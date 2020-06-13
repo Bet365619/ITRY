@@ -42,7 +42,7 @@ Our team has decided to make use of Internet of Things (IOT) devices to collect 
 
 
 ## Detailed description
-
+[More detail is available here](DESCRIPTION.md)
 ## Prerequisites
 
 ## Getting started
