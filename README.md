@@ -105,12 +105,15 @@ Make sure that USE SSL is checked.
 Upon clicking on Activate Sensor, the app collects data from the acceleration sensor in your smartphone and sends the data to the IBM IoT server. The app displays the accelerometer data and the number of messages that were published or received.Such datas are being sent back into the IBM IOT server to be compiled into a json file for further analysis.
 ![Sensor-data](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Sensor-Data.png)
 
-### Step 6 Using of saved data to be analysed using R in Jupyter Notebook
+### Step 6 Data visualization using IOT platform 
+The following graph is obtained from the IOT platform where the data is recorded and visualized. The sharp increase in acceleration is due to a simulated fall of the andriod device together with the elderly.
+
+### Step 7 Using of saved data to be analysed using R in Jupyter Notebook
 
 
 
 
-### Step 7
+### Step 8
 
 ### Software to required
 * Jupyter Notebook
