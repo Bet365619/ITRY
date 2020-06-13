@@ -140,6 +140,9 @@ library(stringr)
 ![Compare](https://github.com/Bet365619/ITRY/blob/master/Code/Split.png)
 5. Construct plots (Boxplots and trendline)
 ![Plots](https://github.com/Bet365619/ITRY/blob/master/Code/Plotting.png)
+The below shows the plots of the two subset time series data obtained in line and boxplot format.
+![Sensor-Reading](https://github.com/Bet365619/ITRY/blob/master/Code/Sensor-reading.png)
+![Box-plot](https://github.com/Bet365619/ITRY/blob/master/Code/Box-plot.png)
 
 6. Statistical matrix.
 ![statistic](https://github.com/Bet365619/ITRY/blob/master/Code/statistic.png)
@@ -147,11 +150,7 @@ library(stringr)
 7. Comparing differences.
 ![Comparing](https://github.com/Bet365619/ITRY/blob/master/Code/comparing-differences.png)
 
-
-
-
-
-### Step 8
+### Step 8 Push Notification
 
 
 
