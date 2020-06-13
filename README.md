@@ -36,7 +36,7 @@ This repository contains the files neccessary for the description of the project
 ## Detailed description
 
 ## Project roadmap
-![Roadmap]()
+![Roadmap](https://github.com/Bet365619/ITRY/blob/master/Timeline/Architecture%20of%20Project.jpg)
 
 ## Getting started
 ### Step by step guide to build the chatbot
