@@ -80,7 +80,20 @@ In this case, the organisation id is pu3272 which is located at the top right co
 
 You will use the IoT Starter for Android app to read and send sensor data on your smartphone. The source code and documentation of the app are in the [iot-starter-for-android GitHub project](https://github.com/ibm-watson-iot/iot-starter-for-android). The [Apk installation file](https://github.com/deveops/iot-starter-for-android/releases) for andriod devices can be found here.
 
-### Step 4 Configuring the mobile device
+### Step 4 Allow permission of IOT starter on mobile device
+1. Go to Settings on mobile phone.
+
+2. Go to Application Management. ![Setting-1](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Settings-1.jpeg)
+
+3. Search for application called IOT Starter. ![Setting-2](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Settings-2.jpeg)
+
+4. Go to Permissions. ![Setting-3](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Settings-1.jpeg)
+
+5. CLick on allow "location" to allow data to flow. ![Setting-4](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Settings-4.jpeg)
+
+6. Turn on share "location" before starting application. ![Setting-5](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Settings-5.jpeg)
+
+### Step 5 Configuring the mobile device
 1. Start the IoT Starter app.
 2. Click Skip tutorial.
 3. Enter the following parameters:
