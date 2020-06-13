@@ -47,7 +47,7 @@ Our team has decided to make use of Internet of Things (IOT) devices to collect 
 1. An IBM Cloud account; if you do not have an existing IBM Cloud account, [start your free trial](https://cloud.ibm.com/registration?cm_sp=ibmdev-_-developer-tutorials-_-cloudreg). Learn more about IBM Cloud by reviewing the [Getting Started documentation](https://cloud.ibm.com/docs).
 2. Download and install the [IBM Cloud CLI and Developer Tools](https://cloud.ibm.com/docs/cli?topic=cli-getting-started).
 3. A smartphone (an Android or iOS device)
-
+4. Jupyter notebook install [here](https://jupyter.org/install.html).
 ## Getting started
 ### Step by step guide to build the analytical device
 #### Step 1 Creating an IOT app in IBM cloud
@@ -105,22 +105,21 @@ Make sure that USE SSL is checked.
 Upon clicking on Activate Sensor, the app collects data from the acceleration sensor in your smartphone and sends the data to the IBM IoT server. The app displays the accelerometer data and the number of messages that were published or received.Such datas are being sent back into the IBM IOT server to be compiled into a json file for further analysis.
 ![Sensor-data](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Sensor-Data.png)
 
+### Step 6 using of saved data to be analysed using R in Jupyter Notebook
 
 
-Step 5
-
-Step 6
-
-Step 7
+### Step 7
 
 ### Software to required
-Jupyter Notebook
+* Jupyter Notebook
 
-RStudio
+* R Studio
 
-IBM Watson Studio
+* IBM Watson Studio
 
-IBM Node-Red
+* IBM Node-Red
+
+* IBM IOT
 
 ## Test results
 
