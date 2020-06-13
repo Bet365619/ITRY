@@ -10,7 +10,7 @@ Our team has decided to make use of Internet of Things (IOT) devices to collect 
 
 ### Retrieving data from IOT Device
 
-We were able to make use of node red and an andriod device in this case to establish a link to generate a sensor that is capable of measuring acceleration. This acceleration sensor can help us keep track of the movement of elderly in real time. In cases where there are sharp increase in acceleration. This could prompt a warning of possible fall cases of the elderly. 
+We were able to make use of node red and an andriod device in this case to establish a link to generate a sensor that is capable of measuring acceleration. This acceleration sensor can help us keep track of the movement of elderly in real time. In cases where there are sharp increase in acceleration. This could prompt a warning of possible fall cases of the elderly. In the IOT platform, the data collected can also be visualised in a table form where we can keep track in real time.
 
 ### Analysing data collected using R studio 
 
