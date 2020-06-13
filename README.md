@@ -107,6 +107,7 @@ Upon clicking on Activate Sensor, the app collects data from the acceleration se
 
 ### Step 6 Data visualization using IOT platform 
 The following graph is obtained from the IOT platform where the data is recorded and visualized. The sharp increase in acceleration is due to a simulated fall of the andriod device together with the elderly.
+![Visualization of Sensor Data](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT/Data-visualization-of-accelerator.png)
 
 ### Step 7 Using of saved data to be analysed using R in Jupyter Notebook
 
