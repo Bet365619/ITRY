@@ -27,10 +27,10 @@ This repository contains the files neccessary for the description of the project
 
 ## Short Description
 ### 1.1 What's the problem ? 
-With the increasingly aging population and a growing segment of vulnerable populations in mind (e.g. increasing trend of elderly with no next of kin), better sense-making must be alerted at the onset of incidents which require emergency response (e.g. cardiac arrests, falls, unattended cooking fires etc.) and mobilise CFRs for effective
-early intervention.
-### 1.2 How does our project help?
-
+With the increasingly aging population and a growing segment of vulnerable populations in mind (e.g. increasing trend of elderly with no next of kin), Community First Responders (CFRs) must be alerted at the onset of incidents which require emergency response (e.g. cardiac arrests, falls, unattended cooking fires etc.) and mobilise CFRs for effective early intervention. CFRs work closely with SCDF to provide timely relief and response to emergency situations.
+### 1.2 How does technology help?
+With the advancement of technology and transferring of live data, early prevention can be built in place through the usage of analytical data for better sense-making decisions at the onset of incidents to provide emergency response from CFRs.
+### 1.3 Idea of project
 ## Pitch video
 
 ## Architecture of project
