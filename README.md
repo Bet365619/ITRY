@@ -44,6 +44,9 @@ Our team has decided to make use of Internet of Things (IOT) devices to collect 
 ## Detailed description
 [More detail is available here](DESCRIPTION.md)
 ## Prerequisites
+1. An IBM Cloud account; if you do not have an existing IBM Cloud account, [start your free trial](https://cloud.ibm.com/registration?cm_sp=ibmdev-_-developer-tutorials-_-cloudreg). Learn more about IBM Cloud by reviewing the [Getting Started documentation](https://cloud.ibm.com/docs).
+2. Download and install the [IBM Cloud CLI and Developer Tools](https://cloud.ibm.com/docs/cli?topic=cli-getting-started).
+3. A smartphone (an Android or iOS device)
 
 ## Getting started
 ### Step by step guide to build the analytical device
