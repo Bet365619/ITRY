@@ -12,5 +12,5 @@ Our team has decided to make use of Internet of Things (IOT) devices to collect 
 ### Converting and Refining data retrieved
 ### Analysing data collected using R studio 
 ## Test results
-## conclusion
+## Conclusion
 ## Acknowledgements
