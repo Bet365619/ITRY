@@ -85,13 +85,13 @@ You will use the IoT Starter for Android app to read and send sensor data on you
 
 2. Go to Application Management. ![Setting-1](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Settings-1.png)
 
-3. Search for application called IOT Starter. ![Setting-2](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Settings-2.jpeg)
+3. Search for application called IOT Starter. ![Setting-2](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Settings-2.png)
 
-4. Go to Permissions. ![Setting-3](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Settings-3.jpeg)
+4. Go to Permissions. ![Setting-3](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Settings-3.png)
 
-5. CLick on allow "location" to allow data to flow. ![Setting-4](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Settings-4.jpeg)
+5. CLick on allow "location" to allow data to flow. ![Setting-4](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Settings-4.png)
 
-6. Turn on share "location" before starting application. ![Setting-5](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Settings-5.jpeg)
+6. Turn on share "location" before starting application. ![Setting-5](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Settings-5.png)
 
 ### Step 5 Configuring the mobile device
 1. Start the IoT Starter app.
@@ -100,7 +100,7 @@ You will use the IoT Starter for Android app to read and send sensor data on you
 Organization: The organization ID that was displayed on the IBM IoT server at the top right corner of dashboard. For example, pu3272 in this tutorial.
 Device ID: The device ID that you configured above. For example, “andriodchris” in this tutorial.
 Auth Token: The authorization token that you specified earlier.
-![Login](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Login.jpeg)
+![Login](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Login.png)
 
 Step 5
 
