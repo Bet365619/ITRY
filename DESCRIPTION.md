@@ -31,4 +31,4 @@ More is left to be desired. Such as :
 3.	Selection of model for analysis.
 
 ## Acknowledgements
-We would like to take the opportunity to thank and acknowledge IBM and SCDF for organising the Call for Code 2020 and providing us with the opportunity and learning experience to participate in this Hackathon.
+We would like to take this opportunity to thank and acknowledge IBM and SCDF for organising the Call for Code 2020 and providing us with the opportunity and learning experience to participate in this Hackathon.
