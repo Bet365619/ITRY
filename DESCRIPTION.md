@@ -8,7 +8,7 @@ Advancements in statistics and technology has blessed us with data analytics, se
 
 ## Idea of project
 
-Our team has decided to make use of Internet of Things (IOT) devices to collect data, transmit data to the cloud and make use of IBM Watson Studio to analyse and visualise the data to SCDF in order to improve their sense-making to be alerted at the onset of incidents which require emergency response and mobilise the CFRs for effective early intervention for the elderly population.
+Our team has decided to make use of Internet of Things (IOT) devices to collect data, transmit data to the cloud and make use of IBM Watson Studio to analyse and visualise the data to SCDF in order to improve their sense-making to be alerted at the onset of incidents which require emergency response and mobilise the CFRs for effective early intervention for the elderly population. Ultimately, this framework will be integrated with myResponder app
 
 ### Retrieving data from IOT Device
 
