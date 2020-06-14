@@ -168,25 +168,28 @@ The basic steps that get you started:
 ![Push Notifications service lifecycle](https://github.com/Bet365619/ITRY/blob/master/Push-notification/Push.png)
 
 
-### Software to required
+### Software required
 * Jupyter Notebook
 
 * R Studio
 
-* IBM Watson Studio
-
 * IBM Node-Red
 
-* IBM IOT
+* IBM Firebase
 
-## Built with
+
+## Data Services
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 * [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logi
 * [IBM IOT platform](https://cloud.ibm.com/catalog/services/internet-of-things-platform) -  The hub for IBM Watson IoT and lets you communicate with and consume data from connected devices and gateways
+* [IBM Watson Studio](https://cloud.ibm.com/services/data-science-experience/crn%3Av1%3Abluemix%3Apublic%3Adata-science-experience%3Aus-south%3Aa%2Fae4aab43485341ff9be40dd32115f019%3A78a0d0b5-d1c6-4ee4-a945-063c96099b8f%3A%3A)
+* [IBM DB2](https://cloud.ibm.com/catalog/services/db2v)
+* [IBM Push Notifications](https://cloud.ibm.com/catalog/services/push-notifications)
+
 ## Authors 
-* **Rui Jie** - *Bet365* 
-* **Ismail** - *Bet365*
-* **Yu Da** - *Bet365*
-* **Zhi Hao** - *Bet365*
+* **Rui Jie** - 
+* **Ismail** - 
+* **Yu Da** - 
+* **Zhi Hao** - 
 
 
