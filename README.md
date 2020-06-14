@@ -49,10 +49,10 @@ Our team has decided to make use of Internet of Things (IOT) devices to collect 
 5.	Sensor data is also stored in db2 for future use.
 6.	Sensor data is imported to  Watson studios .
 7.	Data is refined with Data Refinery app.
-8.	Refined data is imported to Rstudio where further data wrangling and statistical analysis is conducted to detect any changes is   user’s behaviour.
+8.	Refined data is imported to jupyter Notebook where further data wrangling and statistical analysis is conducted to detect any changes is   user’s behaviour.
 9.	Visualisation of data can also be generated look for behavioural changes visually.
 10.	Statistical results from analysis is passed to Firebase through Push Notification.
-11.	In the event a drastic change, which renders an emergency event (i.e. Condition in Firebase Met) , CFRs and SCDF will be notified via push notification.
+11.	In the event a drastic change, which renders an emergency event (i.e. Condition in Firebase Met), CFRs and SCDF will be notified via push notification.
 
 
 ## Detailed description
@@ -86,13 +86,13 @@ In this case, the organisation id is pu3272 which is located at the top right co
 ![IOT-label3](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT/IOT-3.png)
 5. Click Next. A page is displayed where you could enter metadata about the device. Leave it blank, and click Next.
 
-6. On the security page, enter a value for the authentication token. Remember this value for later. Then, click Next.
+6. On the security page, enter any value for the authentication token(Password). Remember this value for later. Then, click Next.
 
 7. Messages are now ready to be sent from registered device to IOT platform.
 
 ### Step 3 Downloading and installing App on mobile device
 
-You will use the IoT Starter for Android app to read and send sensor data on your smartphone. The source code and documentation of the app are in the [iot-starter-for-android GitHub project](https://github.com/ibm-watson-iot/iot-starter-for-android). The [Apk installation file](https://github.com/deveops/iot-starter-for-android/releases) for andriod devices can be found here.
+You will use the IoT Starter for Android app to read and send sensor data on your smartphone. The source code and documentation of the app are in the [iot-starter-for-android GitHub project](https://github.com/ibm-watson-iot/iot-starter-for-android). The [Apk installation file](https://github.com/deveops/iot-starter-for-android/releases) for android devices can be found here.
 
 ### Step 4 Allow permission of IOT starter on mobile device
 1. Go to Settings on mobile phone.
@@ -116,18 +116,18 @@ Device ID: The device ID that you configured above. For example, “andriodchris
 Auth Token: The authorization token that you specified earlier.
 Make sure that USE SSL is checked.
 ![Login](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Login.png)
-Upon clicking on Activate Sensor, the app collects data from the acceleration sensor in your smartphone and sends the data to the IBM IoT server. The app displays the accelerometer data and the number of messages that were published or received.Such datas are being sent back into the IBM IOT server to be compiled into a json file for further analysis.
+Upon clicking on Activate Sensor, the app collects data from the acceleration sensor in your smartphone and sends the data to the IBM IoT server. The app displays the accelerometer data and the number of messages that were published or received. The data is being sent back into the IBM IOT server to be compiled into a json file for further analysis.
 ![Sensor-data](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Settings/Sensor-Data.png)
 
 ### Step 6 Data visualization using IOT platform 
-The following graph is obtained from the IOT platform where the data is recorded and visualized. The sharp increase in acceleration is due to a simulated fall of the andriod device together with the elderly.
+The following graph is obtained from the IOT platform where the data is recorded and visualized. The sharp increase in acceleration is due to a simulated fall of the android device together with the elderly.
 ![Visualization of Sensor Data](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT/Data-visualization-of-accelerator.png)
 
 ### Step 7 Using of saved data to be analysed using R in Jupyter Notebook
-*Other than acceleration data of the user, temperature data of the user's residence is also an important metric that can potentially be signs of an emergency*
+Other than accelerometer data of the user, temperature data of the user's residence is also an important metric that can potentially indicate signs of an emergency.
 
 Data stored in the database can be extracted and be analysed. 
-The following are library to be used and packages to be installed when using R Studio
+The following are library to be used and packages to be installed when using Jupyter notebook:
 ```bash
 #If required
 # install.packages("ggplot2")
@@ -143,7 +143,7 @@ library(jsonlite)
 library(stringr)
 ```
 
-1. Import the code in _ to R studios. 
+1. Import the code in _ to Jupyter Notebook.
 
 2. Read the json file _ to obtain the configuration for the various parameters (Time and Date etc). This will be useful to harmonise similar data with different format in order to make analysis and evaluation possible later in this step.
 
@@ -182,8 +182,6 @@ The basic steps that get you started:
 
 ## Software required
 * Jupyter Notebook
-
-* R Studio
 
 * IBM Node-Red
 
