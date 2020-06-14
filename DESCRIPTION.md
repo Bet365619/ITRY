@@ -22,7 +22,13 @@ This data will be matched with prior data that are obtained and comparison will 
 In conclusion,  we strongly believe that our proposed solution will greatly improve SCDF's sense-making to be alerted at the onset of incidents which require emergency responses and mobilise CFRs for effective early intervention especially to the elderly living without any next of kin.
 
 ## Disclaimer
-
+Disclaimer : Due to time constraints, we were only able to demonstrate the following :
+1.	The streaming of movement data from sensor to the IoT platform
+2.	The analysis of temperature data on R in Juptyer Notebook
+More is left to be desired. Such as :
+1.	The integration of the various services and databases. 
+2.	Analysis with more user data.
+3.	Selection of model for analysis.
 
 ## Acknowledgements
 We would like to take the opportunity to thank and acknowledge IBM and SCDF for organising the Call for Code 2020 and providing us with the opportunity and learning experience to participate in this Hackathon
