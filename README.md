@@ -15,19 +15,17 @@ This repository contains the files neccessary for the description and submission
 
 6.[Getting started](#Getting-started)
 
-7.[Test Results](Tests-results)
+7.[Built With](#Built-with)
 
-8.[Built With](#Built-with)
+8.[Authors](#Authors)
 
-9.[Authors](#Authors)
-
-10.[Acknowledgements](#Acknowledgements)
+9.[Acknowledgements](#Acknowledgements)
 
 ## Short Description
 ### 1.1 What's the problem ? 
-With an increasingly aging population and a growing segment of vulnerable populations specifically the increasing trend of elderly with no next of kin, Community First Responders (CFRs) must be alerted at the onset of incidents which require emergency response (e.g. cardiac arrests, falls, unattended cooking fires etc.) and mobilised for effective early intervention.
+With an increasingly ageing population and a growing segment of vulnerable populations specifically the increasing trend of elderly with no next of kin, Community First Responders (CFRs) must be alerted at the onset of incidents which require emergency response (e.g. cardiac arrests, falls, unattended cooking fires etc.) and mobilised for effective early intervention.
 
-For the general population, alerting CFRs about the situation is seen as a rather simple step to accomplish,the same cannot be said for the elderly. This problem is further compounded by fact that we see more elderly living alone with no next of kin to look out for them. Often, cases involving elderly go unreported. The lingering smell of decomposed bodies and an individuals prolonged absence or a full-on-fire are the only tell-tale signs of and emergency that has occured sometime back.
+For the general population, alerting CFRs about the situation is seen as a rather simple step to accomplish,the same cannot be said for the elderly. This problem is further compounded by fact that we see more elderly living alone with no next of kin to look out for them. Often, cases involving elderly go unreported until it is too late. The lingering smell of decomposed bodies and an individuals prolonged absence or a full-on-fire are the only tell-tale signs of an emergency that has occured sometime back.
 
 ### 1.2 How does technology help?
 
@@ -168,8 +166,6 @@ The below shows the plots of the two subset time series data obtained in line an
 * IBM Node-Red
 
 * IBM IOT
-
-## Test results
 
 ## Built with
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
