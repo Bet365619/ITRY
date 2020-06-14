@@ -199,10 +199,10 @@ The basic steps that get you started:
 * [IBM Push Notifications](https://cloud.ibm.com/catalog/services/push-notifications) - The Push Notifications service provides a unified push service to send real-time notifications to mobile and web applications. The service provides the ability to personalize and send notifications to a segment of users, single user or broadcast to all users.
 
 ## Authors 
-* **Rui Jie** - 
-* **Ismail** - 
-* **Yu Da** - 
-* **Zhi Hao** - 
+* **Rui Jie** 
+* **Ismail** 
+* **Yu Da** 
+* **Zhi Hao** 
 
 ## Acknowledgements
 We would like to take the opportunity to thank and acknowledge IBM and SCDF for organising the Call for Code 2020 and providing us with the opportunity and learning experience to participate in this Hackathon
