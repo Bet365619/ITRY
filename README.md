@@ -49,7 +49,7 @@ Our team has decided to make use of Internet of Things (IOT) devices to collect 
 5.	Sensor data is also stored in db2 for future use.
 6.	Sensor data is imported to  Watson studios .
 7.	Data is refined with Data Refinery app.
-8.	Refined data is imported to jupyter Notebook where further data wrangling and statistical analysis is conducted to detect any changes is   user’s behaviour.
+8.	Refined data is imported to Jupyter Notebook where further data wrangling and statistical analysis is conducted to detect any changes is   user’s behaviour.
 9.	Visualisation of data can also be generated look for behavioural changes visually.
 10.	Statistical results from analysis is passed to Firebase through Push Notification.
 11.	In the event a drastic change, which renders an emergency event (i.e. Condition in Firebase Met), CFRs and SCDF will be notified via push notification.
