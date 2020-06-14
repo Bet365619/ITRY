@@ -1,8 +1,10 @@
 # ITRY
 ## Introduction
-With the increasingly aging population and a growing segment of vulnerable populations specifically the increasing trend of elderly with no next of kin, Community First Responders (CFRs) must be alerted at the onset of incidents which require emergency response (e.g. cardiac arrests, falls, unattended cooking fires etc.) and mobilise CFRs for effective early intervention. Meaning to deploy the CFRs when an elderly person falls or when an unattended stove becomes a cooking fire. CFRs work closely with SCDF to provide timely relief and response to emergency situations.
+With an increasingly ageing population and a growing segment of vulnerable populations specifically the increasing trend of elderly with no next of kin, Community First Responders (CFRs) must be alerted at the onset of incidents which require emergency response (e.g. cardiac arrests, falls, unattended cooking fires etc.) and mobilised for effective early intervention.
 
-With the advancement of technology and transformation of data, effective early interventions can be built in place through the usage of analytical data for better sense-making decisions at the onset of incidents to provide emergency response from CFRs. IOT devices have been developed to collect and transmit data from the device to the cloud for analytics and visualisation.
+For the general population, alerting CFRs about the situation is seen as a rather simple step to accomplish,the same cannot be said for the elderly. This problem is further compounded by fact that we see more elderly living alone with no next of kin to look out for them. Often, cases involving elderly go unreported until it is too late. The lingering smell of decomposed bodies and an individuals prolonged absence or a full-on-fire are the only tell-tale signs of an emergency that has occured sometime back.
+
+Advancements in statistics and technology has blessed us with data analytics, sensors and data storage solutions like the cloud. This has allowed us to collect , store and analyse information about the environment around us automatically. All these can be pivoted towards emergency response as ameans of detecting emergencies which could have been unseen when no one is available to report or witness them. The availability of such information allows CFRs to kick into gear for effective early intervention before it escalates to anything more.
 
 ## Idea of project
 
@@ -10,13 +12,11 @@ Our team has decided to make use of Internet of Things (IOT) devices to collect 
 
 ### Retrieving data from IOT Device
 
-We were able to make use of node red and an andriod device in this case to establish a link to generate a sensor that is capable of measuring acceleration. This acceleration sensor can help us keep track of the movement of elderly in real time. In cases where there are sharp increase in acceleration. This could prompt a warning of possible fall cases of the elderly. In the IOT platform, the data collected can also be visualised in a table form where we can keep track in real time.
+We were able to make use of node red and an andriod device in this case to establish a link to generate a sensor that is capable of measuring acceleration. This acceleration sensor can help us keep track of the movement of elderly in real time. In cases where there are sharp increase in acceleration. This could prompt a warning of possible fall cases of the elderly. In the IOT platform, the data collected can also be visualised in a graph form where we can keep track in real time.
 
 ### Analysing data collected using R studio 
 
 This data will be matched with prior data that are obtained and comparison will be made between the datas to see if there are any abnormalities in activvity of the elderly. This comparison will be done using an algorithm in R studio and data visualization tactics will be used to determine if there is any indication of abnormal activities. In the event that the system triggers the alarm of abnormal activites, the Civilian first responders will then be activated on site to check out the situation. 
-
-## Test results
 
 ## Conclusion
 In conclusion,  we strongly believe that our proposed solution will greatly improve SCDF's sense-making to be alerted at the onset of incidents which require emergency responses and mobilise CFRs for effective early intervention especially to the elderly living without any next of kin.
