@@ -145,7 +145,7 @@ library(stringr)
 
 1. Import the [code](https://github.com/Bet365619/ITRY/blob/master/Code/Anomaly-detection.R) to Jupyter Notebook.
 
-2. Read the json file _ to obtain the configuration for the various parameters (Time and Date etc). This will be useful to harmonise similar data with different format in order to make analysis and evaluation possible later in this step.
+2. Read the [json file](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/Parameter%20Config/Config.json) to obtain the configuration for the various parameters (Time and Date etc). This will be useful to harmonise similar data with different format in order to make analysis and evaluation possible later in this step.
 
 ![json-1](https://github.com/Bet365619/ITRY/blob/master/Code/Config%20data.png)
 
