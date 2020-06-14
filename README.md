@@ -40,6 +40,13 @@ Our team has decided to make use of Internet of Things (IOT) devices to collect 
 ## Architecture of project
 ![Architecture of project](https://github.com/Bet365619/ITRY/blob/master/TIMELINE/Architecture-of-Project-ITRY.png)
 
+1. 
+2. 
+3. 
+4.
+5.
+6.
+7.
 
 ## Detailed description
 [More detail is available here](DESCRIPTION.md)
@@ -110,7 +117,7 @@ The following graph is obtained from the IOT platform where the data is recorded
 ![Visualization of Sensor Data](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT/Data-visualization-of-accelerator.png)
 
 ### Step 7 Using of saved data to be analysed using R in Jupyter Notebook
-Other than acceleration data of the user, temperature data of the user's residence is also an important metric that can potentially be signs of an emergency
+*Other than acceleration data of the user, temperature data of the user's residence is also an important metric that can potentially be signs of an emergency*
 
 Data stored in the database can be extracted and be analysed. 
 The following are library to be used and packages to be installed when using R Studio
