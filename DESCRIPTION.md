@@ -22,7 +22,7 @@ This data will be matched with prior data that are obtained and comparison will 
 In conclusion,  we strongly believe that our proposed solution will greatly improve SCDF's sense-making to be alerted at the onset of incidents which require emergency responses and mobilise CFRs for effective early intervention especially to the elderly living without any next of kin.
 
 ## Disclaimer
-Due to time constraint, we are only able to demonstrate the capturing of live data from the motion sensors and the analysis of temperature data comparison
+
 
 ## Acknowledgements
 We would like to take the opportunity to thank and acknowledge IBM and SCDF for organising the Call for Code 2020 and providing us with the opportunity and learning experience to participate in this Hackathon
