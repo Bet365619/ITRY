@@ -160,7 +160,17 @@ The below shows the plots of the two subset time series data obtained in line an
 ![Comparing](https://github.com/Bet365619/ITRY/blob/master/Code/comparing-differences.png)
 
 ### Step 8 Push Notification
+Push Notifications is available as an IBM Cloud catalog service in the Web and Mobile category and enables you to send and manage mobile and web push notifications. A push notification is an alert to indicate a change or update on a mobile device or browser.
 
+Push Notifications are a universally accepted communication channel across enterprises or for a wide spectrum of audience. You can deliver these notifications as an onscreen banner alert or to a device's locked screen, thus providing information updates that are quickly and easily accessible.
+
+The basic steps that get you started:
+1. [Create an IBM Cloud Push Notifications service instance](https://cloud.ibm.com/docs/mobilepush?topic=mobilepush-push_step_1a)
+2. [Obtain your notification provider credentials](https://cloud.ibm.com/docs/mobilepush?topic=mobilepush-push_step_1)
+3. [Configure the service instance](https://cloud.ibm.com/docs/mobilepush?topic=mobilepush-push_step_2)
+4. [Setup Push notifications service client SDKs](https://cloud.ibm.com/docs/mobilepush?topic=mobilepush-push_step_3)
+5. [Send a notification](https://cloud.ibm.com/docs/mobilepush?topic=mobilepush-push_step_4)
+![Push Notifications service lifecycle](https://github.com/Bet365619/ITRY/blob/master/Push-Notification/Push.png)
 
 
 ### Software to required
