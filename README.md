@@ -149,7 +149,7 @@ library(stringr)
 
 ![json-1](https://github.com/Bet365619/ITRY/blob/master/Code/Config%20data.png)
 
-3. Read the csv file _ to obtain the sample time series data used for the analysis.
+3. Read the [csv file](https://github.com/Bet365619/ITRY/blob/master/Sample_Data/sample_sensordata.csv) to obtain the sample time series data used for the analysis.
 ![Import](https://github.com/Bet365619/ITRY/blob/master/Code/Import.png)
 
 4. From the time series data, subset 2 time series data of 2 different days with some time periods. (E.g. Day1 12am to 12pm, Day2 12am to 12pm. The photo below shows the splitting into two subset of time series data
@@ -190,7 +190,7 @@ The basic steps that get you started:
 
 ## Data services
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-* [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logi
+* [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The computing platform for handling logic
 * [IBM IOT platform](https://cloud.ibm.com/catalog/services/internet-of-things-platform) -  The hub for IBM Watson IoT and lets you communicate with and consume data from connected devices and gateways
 * [IBM Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio) -  Watson Studio provides a suite of tools and a collaborative environment for data scientists, developers and domain experts.
 * [IBM DB2](https://cloud.ibm.com/catalog/services/db2v) - A fully-managed cloud database
