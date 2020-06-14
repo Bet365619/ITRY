@@ -40,13 +40,8 @@ Our team has decided to make use of Internet of Things (IOT) devices to collect 
 ## Architecture of project
 ![Architecture of project](https://github.com/Bet365619/ITRY/blob/master/TIMELINE/Architecture-of-Project.png)
 
-1. 
-2. 
-3. 
-4.
-5.
-6.
-7.
+
+
 
 ## Detailed description
 [More detail is available here](DESCRIPTION.md)
