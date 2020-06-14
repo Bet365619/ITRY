@@ -25,10 +25,14 @@ This repository contains the files neccessary for the description and submission
 
 ## Short Description
 ### 1.1 What's the problem ? 
-With the increasingly aging population and a growing segment of vulnerable populations specifically the increasing trend of elderly with no next of kin, Community First Responders (CFRs) must be alerted at the onset of incidents which require emergency response (e.g. cardiac arrests, falls, unattended cooking fires etc.) and mobilise CFRs for effective early intervention. Meaning to deploy the CFRs when an elderly person falls or when an unattended stove becomes a cooking fire. CFRs work closely with SCDF to provide timely relief and response to emergency situations.
+With an increasingly aging population and a growing segment of vulnerable populations specifically the increasing trend of elderly with no next of kin, Community First Responders (CFRs) must be alerted at the onset of incidents which require emergency response (e.g. cardiac arrests, falls, unattended cooking fires etc.) and mobilised for effective early intervention.
+
+For the general population, alerting CFRs about the situation is seen as a rather simple step to accomplish,the same cannot be said for the elderly. This problem is further compounded by fact that we see more elderly living alone with no next of kin to look out for them. Often, cases involving elderly go unreported. The lingering smell of decomposed bodies and an individuals prolonged absence or a full-on-fire are the only tell-tale signs of and emergency that has occured sometime back.
 
 ### 1.2 How does technology help?
-With the advancement of technology and transformation of data, effective early interventions can be built in place through the usage of analytical data for better sense-making decisions at the onset of incidents to provide emergency response from CFRs. IOT devices have been developed to collect and transmit data from the device to the cloud for analytics and visualisation.
+
+Advancements in statistics and technology has blessed us with data analytics, sensors and data storage solutions like the cloud. This has allowed us to collect , store and analyse information about the environment around us automatically. All these can be pivoted towards emergency response as  ameans of detecting emergencies which could have been unseen when no one is available to report or witness them. The availability of such information allows CFRs to kick into gear for effective early intervention before it escalates to anything more.
+
 
 ### 1.3 Idea of project
 Our team has decided to make use of Internet of Things (IOT) devices to collect data, transmit data to the cloud and make use of IBM Watson Studio to analyse and visualise the data to SCDF in order to improve their sense-making to be alerted at the onset of incidents which require emergency response and mobilise the CFRs for effective early intervention for the elderly population.
