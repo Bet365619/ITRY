@@ -82,7 +82,7 @@ In this case, the organisation id is pu3272 which is located at the top right co
 3. Click Next. A page is displayed where you can enter metadata about the device type, such as a serial number or model. You don’t need to specify this information for this tutorial. Just click Finish.
 ![IOT-label2](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT/IOT-2.png)
 
-4. Click Register Devices. Enter the device ID. The device ID can be, for example, the MAC address of your smartphone. However, it must be unique within your organization only. For example in this instance, the device ID is "andriodchris".
+4. Click Register Devices. Enter the device ID. The device ID can be, for example, the MAC address of your smartphone. However, it must be unique within your organization only. For example in this instance, the device ID is "androidchris".
 ![IOT-label3](https://github.com/Bet365619/ITRY/blob/master/Setup_IMG/IOT/IOT-3.png)
 5. Click Next. A page is displayed where you could enter metadata about the device. Leave it blank, and click Next.
 
@@ -127,7 +127,7 @@ The following graph is obtained from the IOT platform where the data is recorded
 Other than accelerometer data of the user, temperature data of the user's residence is also an important metric that can potentially indicate signs of an emergency.
 
 Data stored in the database can be extracted and be analysed. 
-The following are library to be used and packages to be installed when using Jupyter notebook:
+The following are library to be used and packages to be installed when using Jupyter Notebook:
 ```bash
 #If required
 # install.packages("ggplot2")
@@ -143,7 +143,7 @@ library(jsonlite)
 library(stringr)
 ```
 
-1. Import the code in _ to Jupyter Notebook.
+1. Import the [code](https://github.com/Bet365619/ITRY/blob/master/Code/Anomaly-detection.R) to Jupyter Notebook.
 
 2. Read the json file _ to obtain the configuration for the various parameters (Time and Date etc). This will be useful to harmonise similar data with different format in order to make analysis and evaluation possible later in this step.
 
