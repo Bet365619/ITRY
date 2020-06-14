@@ -184,7 +184,7 @@ The basic steps that get you started:
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 * [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logi
 * [IBM IOT platform](https://cloud.ibm.com/catalog/services/internet-of-things-platform) -  The hub for IBM Watson IoT and lets you communicate with and consume data from connected devices and gateways
-* [IBM Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio -  Watson Studio provides a suite of tools and a collaborative environment for data scientists, developers and domain experts.
+* [IBM Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio) -  Watson Studio provides a suite of tools and a collaborative environment for data scientists, developers and domain experts.
 * [IBM DB2](https://cloud.ibm.com/catalog/services/db2v) - A fully-managed cloud database
 * [IBM Push Notifications](https://cloud.ibm.com/catalog/services/push-notifications) - The Push Notifications service provides a unified push service to send real-time notifications to mobile and web applications. The service provides the ability to personalize and send notifications to a segment of users, single user or broadcast to all users.
 
