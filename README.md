@@ -35,7 +35,7 @@ Advancements in statistics and technology has blessed us with data analytics, se
 
 
 ### 1.3 Idea of project
-Our team has decided to make use of Internet of Things (IOT) devices to collect data via sensor from andriod devices, transmit data to the cloud and make use of IBM Watson Studio and Jupyter Notebook (R Studio) to analyse and visualise the data for comparison. In case of abnormal activites or reading from daily routines, the CFRs will be activated to investigate the situation. This can improve SCDF sense-making to be alerted at the onset of incidents which require emergency response and mobilise the CFRs for effective early intervention for the elderly population.
+Our team has decided to make use of Internet of Things (IOT) devices to collect data via sensor from andriod devices, transmit data to the cloud and make use of IBM Watson Studio and Jupyter Notebook (R Studio) to analyse and visualise the data for comparison. In case of abnormal activites or reading from daily routines, the CFRs will be activated to investigate the situation. This can improve SCDF sense-making to be alerted at the onset of incidents which require emergency response and mobilise the CFRs for effective early intervention for the elderly population. Ultimately, this framework will be integrated with myResponder appUltimately, this framework will be integrated with myResponder app
 
 ## Pitch video
 
