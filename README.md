@@ -170,7 +170,7 @@ The basic steps that get you started:
 3. [Configure the service instance](https://cloud.ibm.com/docs/mobilepush?topic=mobilepush-push_step_2)
 4. [Setup Push notifications service client SDKs](https://cloud.ibm.com/docs/mobilepush?topic=mobilepush-push_step_3)
 5. [Send a notification](https://cloud.ibm.com/docs/mobilepush?topic=mobilepush-push_step_4)
-![Push Notifications service lifecycle](https://github.com/Bet365619/ITRY/blob/master/Push-Notification/Push.png)
+![Push Notifications service lifecycle](https://github.com/Bet365619/ITRY/blob/master/Push-notification/Push.png)
 
 
 ### Software to required
