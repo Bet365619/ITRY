@@ -15,11 +15,13 @@ This repository contains the files neccessary for the description and submission
 
 6.[Getting started](#Getting-started)
 
-7.[Built With](#Built-with)
+7.[Software required](#Software-required)
 
-8.[Authors](#Authors)
+8.[Data Services](#Data-services)
 
-9.[Acknowledgements](#Acknowledgements)
+9.[Authors](#Authors)
+
+10.[Acknowledgements](#Acknowledgements)
 
 ## Short Description
 ### 1.1 What's the problem ? 
@@ -40,17 +42,6 @@ Our team has decided to make use of Internet of Things (IOT) devices to collect 
 ## Architecture of project
 ![Architecture of project](https://github.com/Bet365619/ITRY/blob/master/TIMELINE/Architecture-of-Project-ITRY.png)
 
-1.	User’s and surrounding environment’s variables (e.g. Movement of user, Temperature) are detected by the IoT device and sent as data packets from smartphone periodically.
-2.	The data from the IoT device are streamed to the IoT platform via node red.
-3.	Node red also gives the instruction for the sensor data to be sent to cloudant app.
-4.	Data from the IoT device can be retrieved and visualised for live movement tracking.
-5.	Sensor data is also stored in db2 for future use.
-6.	Sensor data is imported to  Watson studios .
-7.	Data is refined with Data Refinery app.
-8.	Refined data is imported to Rstudio where further data wrangling and statistical analysis is conducted to detect any changes is user’s behaviour.
-9.	Visualisation of data can also be generated look for behavioural changes visually.
-10.	Statistical results from analysis is passed to Firebase through Push Notification.
-11.	In the event a drastic change, which renders an emergency event (i.e. Condition in Firebase Met) , CFRs and SCDF will be notified via push notification.
 
 
 
@@ -179,7 +170,7 @@ The basic steps that get you started:
 ![Push Notifications service lifecycle](https://github.com/Bet365619/ITRY/blob/master/Push-notification/Push.png)
 
 
-### Software required
+## Software required
 * Jupyter Notebook
 
 * R Studio
@@ -189,7 +180,7 @@ The basic steps that get you started:
 * IBM Firebase
 
 
-## Data Services
+## Data services
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 * [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logi
 * [IBM IOT platform](https://cloud.ibm.com/catalog/services/internet-of-things-platform) -  The hub for IBM Watson IoT and lets you communicate with and consume data from connected devices and gateways
