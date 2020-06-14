@@ -16,10 +16,13 @@ We were able to make use of node red and an andriod device in this case to estab
 
 ### Analysing data collected using R studio 
 
-This data will be matched with prior data that are obtained and comparison will be made between the datas to see if there are any abnormalities in activvity of the elderly. This comparison will be done using an algorithm in R studio and data visualization tactics will be used to determine if there is any indication of abnormal activities. In the event that the system triggers the push notifications of abnormal activites, the Civilian first responders will then be activated on site to check out the situation. 
+This data will be matched with prior data that are obtained and comparison will be made between the datas to see if there are any abnormalities in activvity of the elderly. This comparison will be done using an algorithm in R studio and data visualization tactics will be used to determine if there is any indication of abnormal activities. In the event that the system triggers the push notifications of abnormal activites, the Community First Responders will then be activated on site to check out the situation. 
 
 ## Conclusion
 In conclusion,  we strongly believe that our proposed solution will greatly improve SCDF's sense-making to be alerted at the onset of incidents which require emergency responses and mobilise CFRs for effective early intervention especially to the elderly living without any next of kin.
+
+## Disclaimer
+Due to time constraint, we are only able to demonstrate the capturing of live data from the motion sensors and the analysis of temperature data comparison
 
 ## Acknowledgements
 We would like to take the opportunity to thank and acknowledge IBM and SCDF for organising the Call for Code 2020 and providing us with the opportunity and learning experience to participate in this Hackathon
